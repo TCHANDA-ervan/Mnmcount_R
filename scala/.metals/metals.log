@@ -1,0 +1,66 @@
+2024.01.31 10:22:27 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/Downloads/mnmcount/scala' for client Visual Studio Code 1.85.2.[0m
+2024.01.31 10:22:29 WARN  Build server is not auto-connectable.[0m
+2024.01.31 10:22:30 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:22:44 INFO  no build target found for /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.01.31 10:22:57 INFO  time: code lens generation in 25s[0m
+2024.01.31 10:25:29 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:25:31 INFO  time: code lens generation in 3.56s[0m
+2024.01.31 10:25:45 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+Jan 31, 2024 10:26:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Jan 31, 2024 10:26:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+2024.01.31 10:30:41 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:32:56 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:33:28 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:34:46 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:37:32 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:37:35 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:37:36 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+Jan 31, 2024 3:41:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 174
+2024.01.31 17:52:05 INFO  Shutting down server[0m
+2024.01.31 17:52:05 INFO  shutting down Metals[0m
+2024.01.31 17:52:09 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+2024.02.01 10:05:22 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/Downloads/mnmcount/scala' for client Visual Studio Code 1.85.2.
+2024.02.01 10:05:25 WARN  Build server is not auto-connectable.
+2024.02.01 10:05:25 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.01 10:05:37 INFO  no build target found for /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.01 10:05:44 INFO  time: code lens generation in 17s
+2024.02.02 16:05:52 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/Downloads/mnmcount/scala' for client Visual Studio Code 1.86.0.
+2024.02.02 16:05:58 WARN  Build server is not auto-connectable.
+2024.02.02 16:05:58 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.02 16:06:11 INFO  no build target found for /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.02 16:06:17 INFO  time: code lens generation in 17s
+Feb 02, 2024 4:08:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 02, 2024 4:09:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Feb 02, 2024 4:16:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.02.04 09:52:55 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/Downloads/mnmcount/scala' for client Visual Studio Code 1.86.0.
+2024.02.04 09:53:01 WARN  Build server is not auto-connectable.
+2024.02.04 09:53:01 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.04 09:53:15 INFO  no build target found for /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.04 09:53:22 INFO  time: code lens generation in 18s
+2024.02.06 08:24:19 INFO  Shutting down server
+2024.02.06 08:24:20 INFO  shutting down Metals
+2024.02.06 08:27:13 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/Downloads/mnmcount/scala' for client Visual Studio Code 1.86.0.
+2024.02.06 08:27:15 WARN  Build server is not auto-connectable.
+2024.02.06 08:27:15 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 08:29:54 INFO  no build target found for /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 08:30:10 INFO  time: code lens generation in 2m52s
+2024.02.06 08:34:40 INFO  Shutting down server
+2024.02.06 08:34:42 INFO  shutting down Metals

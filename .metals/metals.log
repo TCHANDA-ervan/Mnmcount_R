@@ -1,0 +1,956 @@
+2024.01.31 10:14:38 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/Downloads/mnmcount' for client Visual Studio Code 1.85.2.[0m
+2024.01.31 10:14:42 WARN  Build server is not auto-connectable.[0m
+2024.01.31 10:14:43 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:15:12 INFO  no build target found for /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.01.31 10:15:19 INFO  time: code lens generation in 36s[0m
+2024.01.31 10:15:19 INFO  time: code lens generation in 4.3s[0m
+2024.01.31 10:15:19 INFO  time: code lens generation in 8.82s[0m
+2024.01.31 10:15:19 INFO  time: code lens generation in 6.4s[0m
+Jan 31, 2024 10:19:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.01.31 10:19:32 WARN  no build target for: /home/ubuntu/Downloads/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.01.31 10:21:36 INFO  Shutting down server[0m
+2024.01.31 10:21:36 INFO  shutting down Metals[0m
+2024.01.31 10:21:36 INFO  Exiting server[0m
+2024.02.06 11:01:03 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.[0m
+2024.02.06 11:01:03 INFO  time: initialize in 0.33s[0m
+2024.02.06 11:01:26 WARN  Build server is not auto-connectable.[0m
+2024.02.06 11:01:26 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala[0m
+2024.02.06 11:01:47 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.02.06 11:01:57 INFO  time: code lens generation in 25s[0m
+Feb 06, 2024 11:08:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Feb 06, 2024 11:08:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+Feb 06, 2024 11:08:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Feb 06, 2024 11:12:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+Feb 06, 2024 11:12:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+Feb 06, 2024 11:12:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Feb 06, 2024 11:12:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+Feb 06, 2024 11:12:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+Feb 06, 2024 11:12:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Feb 06, 2024 11:12:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2024.02.06 14:59:11 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 14:59:11 INFO  time: initialize in 0.25s
+2024.02.06 14:59:20 WARN  Build server is not auto-connectable.
+2024.02.06 14:59:21 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 14:59:39 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 16:08:27 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 16:08:28 INFO  time: initialize in 0.25s
+2024.02.06 16:08:59 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:02 WARN  Build server is not auto-connectable.
+2024.02.06 16:09:02 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 4:09:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2024.02.06 16:09:22 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 16:09:26 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 4:09:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2024.02.06 16:09:30 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:31 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:32 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:35 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:37 INFO  time: code lens generation in 35s
+2024.02.06 16:09:37 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:39 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:44 INFO  time: code lens generation in 7.43s
+2024.02.06 16:09:44 INFO  time: code lens generation in 10s
+2024.02.06 16:09:44 INFO  time: code lens generation in 11s
+2024.02.06 16:09:44 INFO  time: code lens generation in 12s
+2024.02.06 16:09:44 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:44 INFO  time: code lens generation in 13s
+2024.02.06 16:09:44 INFO  time: code lens generation in 15s
+2024.02.06 16:09:44 INFO  time: code lens generation in 15s
+2024.02.06 16:09:44 INFO  time: code lens generation in 18s
+2024.02.06 16:09:44 INFO  time: code lens generation in 42s
+2024.02.06 16:09:44 INFO  time: code lens generation in 42s
+2024.02.06 16:09:44 INFO  time: code lens generation in 5.99s
+2024.02.06 16:09:44 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:09:53 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 4:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+Feb 06, 2024 4:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+Feb 06, 2024 4:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+Feb 06, 2024 4:09:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+2024.02.06 16:09:56 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:00 INFO  time: code lens generation in 4.5s
+2024.02.06 16:10:01 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:01 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:01 INFO  time: code lens generation in 4.73s
+2024.02.06 16:10:01 INFO  time: code lens generation in 1.01s
+2024.02.06 16:10:01 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:04 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:11 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:11 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:12 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:13 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:15 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:18 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:19 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:19 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:37 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:38 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:40 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:42 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:43 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:43 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:48 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:49 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:49 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:51 WARN  Could not find semantic tokens for: file:///home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 4:10:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+2024.02.06 16:10:53 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:10:58 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:11:25 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:41:11 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 16:41:11 INFO  time: initialize in 0.15s
+2024.02.06 16:41:19 WARN  Build server is not auto-connectable.
+2024.02.06 16:41:19 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 16:41:37 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 16:41:52 INFO  time: code lens generation in 33s
+2024.02.06 17:08:10 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 17:08:11 INFO  time: initialize in 0.54s
+2024.02.06 17:08:31 WARN  Build server is not auto-connectable.
+2024.02.06 17:08:32 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 17:08:55 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 17:09:10 INFO  time: code lens generation in 39s
+2024.02.06 18:29:03 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 18:29:03 INFO  time: initialize in 0.5s
+2024.02.06 18:29:20 WARN  Build server is not auto-connectable.
+2024.02.06 18:29:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:29:40 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 18:30:04 INFO  time: code lens generation in 43s
+Feb 06, 2024 6:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2024.02.06 18:33:22 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:96: error: unclosed comment
+   /* val datajour = spark.read
+   ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:33:27 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:33:27 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:33:28 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:96: error: unclosed comment
+   /* val datajour = spark.read
+   ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:33:47 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:34:01 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:96: error: unclosed comment
+   /* val datajour = spark.read
+   ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:34:03 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:34:04 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:96: error: unclosed comment
+   /* val datajour = spark.read
+   ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:34:05 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:96: error: unclosed comment
+   /*al datajour = spark.read
+   ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:34:10 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:34:11 INFO  time: code lens generation in 1.66s
+Feb 06, 2024 6:34:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 116
+Feb 06, 2024 6:34:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 115
+2024.02.06 18:34:18 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:34:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:34:22 INFO  time: code lens generation in 3.44s
+2024.02.06 18:34:34 INFO  time: code lens generation in 2.03s
+2024.02.06 18:34:41 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:34:54 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:35:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 161
+Exception in thread "pool-5-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:230)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2024.02.06 18:35:23 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:107: error: unclosed comment
+    /*val dateDF = datajour
+    ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:35:52 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:35:53 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:107: error: unclosed comment
+    /*val dateDF = datajour
+    ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:35:54 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:36:25 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:41:43 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 18:41:43 INFO  time: initialize in 0.26s
+2024.02.06 18:41:55 WARN  Build server is not auto-connectable.
+2024.02.06 18:41:55 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:42:16 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 18:42:31 INFO  time: code lens generation in 23s
+2024.02.06 18:42:31 INFO  time: code lens generation in 35s
+2024.02.06 18:43:00 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:01 INFO  time: code lens generation in 1.72s
+2024.02.06 18:43:05 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:08 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:09 INFO  time: code lens generation in 1.44s
+2024.02.06 18:43:10 INFO  time: code lens generation in 1.06s
+2024.02.06 18:43:10 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:12 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:54 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:55 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:43:58 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:00 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:04 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:11 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:44:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 112
+2024.02.06 18:44:14 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:23 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:28 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:44:56 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:45:01 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:112: error: unclosed character literal
+    val capitales = paysdf.select($"capital",getltem(0).as(''))
+                                                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:407)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:412)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:45:02 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:45:02 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:112: error: unclosed character literal
+    val capitales = paysdf.select($"capital",getltem(0).as(''))
+                                                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:407)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:412)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:45:03 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:45:07 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:45:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:45:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 258
+2024.02.06 18:45:27 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:45:34 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:12 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:14 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 312
+Feb 06, 2024 6:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 314
+2024.02.06 18:46:17 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:19 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:21 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:22 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:26 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:27 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:31 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:34 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:40 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:44 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:116: error: unclosed string literal
+    val continents = paysdf.select($"continents"")
+                                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:46:45 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:45 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:116: error: unclosed string literal
+    val continents = paysdf.select($"continents"")
+                                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:46:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:52 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:53 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:54 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:46:56 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:46:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 453
+2024.02.06 18:46:58 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:47:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 463
+2024.02.06 18:47:03 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:09 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:12 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:15 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:15 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:17 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:23 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:47:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 538
+2024.02.06 18:47:28 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:29 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:47:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 570
+2024.02.06 18:47:31 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:47:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 579
+Feb 06, 2024 6:47:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 584
+2024.02.06 18:47:37 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:120: error: unclosed comment
+    /*val tempDF = datajour
+    ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 18:47:38 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:47:38 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:120: error: unclosed comment
+    /*val tempDF = datajour
+    ^
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:27)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:26)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter.incompleteInputError$(Reporter.scala:29)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.incompleteInputError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipNestedComments(LegacyScanner.scala:52)
+	at scala.meta.internal.tokenizers.LegacyScanner.skipToCommentEnd(LegacyScanner.scala:71)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:313)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+Feb 06, 2024 6:48:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 606
+Feb 06, 2024 6:52:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 614
+Feb 06, 2024 6:53:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 616
+2024.02.06 18:53:11 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:53:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 637
+Feb 06, 2024 6:53:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 642
+Feb 06, 2024 6:53:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 643
+Feb 06, 2024 6:53:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 644
+Feb 06, 2024 6:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 658
+2024.02.06 18:57:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:58:04 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:58:06 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:58:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 708
+2024.02.06 18:58:14 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:58:16 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:58:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 736
+2024.02.06 18:58:39 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:58:42 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 6:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 764
+Feb 06, 2024 6:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 765
+2024.02.06 18:58:49 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:58:55 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:05 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:13 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:16 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:19 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:25 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:29 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:45 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 18:59:48 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:08:59 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 21:09:00 INFO  time: initialize in 0.23s
+2024.02.06 21:09:13 WARN  Build server is not auto-connectable.
+2024.02.06 21:09:13 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:09:38 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+Feb 06, 2024 9:09:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Feb 06, 2024 9:09:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.02.06 21:09:44 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2024.02.06 21:09:44 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2024.02.06 21:09:44 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Feb 06, 2024 9:09:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Feb 06, 2024 9:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Feb 06, 2024 9:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+Feb 06, 2024 9:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Feb 06, 2024 9:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+2024.02.06 21:09:45 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+2024.02.06 21:09:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 81
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+Feb 06, 2024 9:09:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 84
+Feb 06, 2024 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 88
+2024.02.06 21:09:47 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:09:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+Feb 06, 2024 9:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94
+2024.02.06 21:09:49 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:09:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:02 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:02 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:05 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:08 INFO  time: code lens generation in 22s
+2024.02.06 21:10:08 INFO  time: code lens generation in 20s
+2024.02.06 21:10:08 INFO  time: code lens generation in 23s
+2024.02.06 21:10:08 INFO  time: code lens generation in 21s
+2024.02.06 21:10:08 INFO  time: code lens generation in 18s
+2024.02.06 21:10:08 INFO  time: code lens generation in 7.48s
+2024.02.06 21:10:08 INFO  time: code lens generation in 23s
+2024.02.06 21:10:08 INFO  time: code lens generation in 23s
+2024.02.06 21:10:08 INFO  time: code lens generation in 21s
+2024.02.06 21:10:08 INFO  time: code lens generation in 21s
+2024.02.06 21:10:08 INFO  time: code lens generation in 22s
+2024.02.06 21:10:08 INFO  time: code lens generation in 23s
+2024.02.06 21:10:08 INFO  time: code lens generation in 23s
+2024.02.06 21:10:08 INFO  time: code lens generation in 22s
+2024.02.06 21:10:08 INFO  time: code lens generation in 3.8s
+2024.02.06 21:10:08 INFO  time: code lens generation in 6.26s
+2024.02.06 21:10:08 INFO  time: code lens generation in 48s
+2024.02.06 21:10:08 INFO  time: code lens generation in 24s
+2024.02.06 21:10:16 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:23 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:26 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:26 ERROR Failed to tokenize input for semantic tokens for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+scala.meta.tokenizers.TokenizeException: <input>:112: error: Invalid literal number
+    val capitales = paysdf.select(col("capital")element_at(col("capital"), 1getltem(0).as("capital"))
+                                                                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2024.02.06 21:10:27 INFO  time: code lens generation in 4.53s
+2024.02.06 21:10:27 INFO  time: code lens generation in 2.57s
+Feb 06, 2024 9:10:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 184
+2024.02.06 21:10:35 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:10:59 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:11:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 229
+Feb 06, 2024 9:11:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+2024.02.06 21:11:10 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:11:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+Feb 06, 2024 9:11:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 254
+Feb 06, 2024 9:11:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 265
+2024.02.06 21:11:18 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:11:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:11:38 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:11:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 322
+2024.02.06 21:11:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:11:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:12:36 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:12:39 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:12:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 380
+2024.02.06 21:12:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:12:53 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:29:23 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 21:29:23 INFO  time: initialize in 0.33s
+Feb 06, 2024 9:29:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.02.06 21:29:44 WARN  Build server is not auto-connectable.
+2024.02.06 21:29:44 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:30:11 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 21:30:30 INFO  time: code lens generation in 31s
+2024.02.06 21:33:04 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:33:04 INFO  time: code lens generation in 2.07s
+2024.02.06 21:33:05 INFO  time: code lens generation in 1.47s
+2024.02.06 21:33:21 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:36:08 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:36:13 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:37:55 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:37:58 INFO  time: code lens generation in 4.05s
+2024.02.06 21:37:58 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:37:59 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:42:58 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:43:02 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:43:03 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 21:43:06 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 9:46:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 117
+2024.02.06 22:02:57 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 22:02:58 INFO  time: initialize in 0.49s
+2024.02.06 22:03:19 WARN  Build server is not auto-connectable.
+2024.02.06 22:03:19 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:04:00 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 22:04:48 INFO  time: code lens generation in 1m1s
+2024.02.06 22:13:03 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 22:13:03 INFO  time: initialize in 0.54s
+2024.02.06 22:13:15 WARN  Build server is not auto-connectable.
+2024.02.06 22:13:16 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:13:36 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 22:13:51 INFO  time: code lens generation in 31s
+2024.02.06 22:22:02 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:22:03 INFO  time: code lens generation in 3.34s
+2024.02.06 22:22:04 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:22:06 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:22:07 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:22:08 INFO  time: code lens generation in 1.01s
+Feb 06, 2024 10:26:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2024.02.06 22:37:04 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 22:37:05 INFO  time: initialize in 0.25s
+2024.02.06 22:37:20 WARN  Build server is not auto-connectable.
+2024.02.06 22:37:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 22:37:36 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 22:37:52 INFO  time: code lens generation in 27s
+2024.02.06 23:08:07 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 23:08:09 INFO  time: initialize in 1.23s
+2024.02.06 23:08:29 WARN  Build server is not auto-connectable.
+2024.02.06 23:08:30 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:09:42 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 23:10:11 INFO  time: code lens generation in 1m26s
+2024.02.06 23:14:53 INFO  Shutting down server
+2024.02.06 23:14:53 INFO  shutting down Metals
+2024.02.06 23:14:54 INFO  Exiting server
+2024.02.06 23:51:31 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.06 23:51:32 INFO  time: initialize in 0.38s
+2024.02.06 23:51:46 WARN  Build server is not auto-connectable.
+2024.02.06 23:51:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:52:10 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.06 23:52:37 INFO  time: code lens generation in 36s
+2024.02.06 23:52:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 06, 2024 11:53:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2024.02.06 23:53:04 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:53:06 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:53:13 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:53:27 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:53:29 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:53:31 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:53:31 INFO  time: code lens generation in 3.08s
+2024.02.06 23:53:32 INFO  time: code lens generation in 1.33s
+2024.02.06 23:54:44 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:54:46 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:54:49 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:54:50 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:54:54 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:54:59 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:05 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:10 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:14 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:17 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:24 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:33 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:41 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:55:53 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.06 23:56:05 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.07 00:11:03 INFO  Started: Metals version 1.2.0 in folders '/home/ubuntu/mnmcount' for client Visual Studio Code 1.86.0.
+2024.02.07 00:11:03 INFO  time: initialize in 0.4s
+2024.02.07 00:11:20 WARN  Build server is not auto-connectable.
+2024.02.07 00:11:20 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.07 00:11:40 INFO  no build target found for /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala. Using presentation compiler with project's scala-library version: 3.3.1
+java.lang.AssertionError: assertion failed: denotation object language invalid in run 3. ValidFor: Period(1..2, run = 4) while typechecking /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+Feb 07, 2024 12:12:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/ubuntu/mnmcount/.metals/.reports/metals-full/2024-02-07/r_compiler-error_00-12-04-347.md
+2024.02.07 00:12:04 INFO  time: code lens generation in 37s
+2024.02.07 00:12:27 INFO  time: code lens generation in 1.38s
+2024.02.07 00:13:33 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.07 00:13:36 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.07 00:13:37 INFO  time: code lens generation in 2.67s
+2024.02.07 00:13:37 WARN  no build target for: /home/ubuntu/mnmcount/scala/src/main/scala/mnmc/MnMcount.scala
+2024.02.07 00:13:38 INFO  time: code lens generation in 1.51s
+Feb 07, 2024 12:16:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Feb 07, 2024 12:29:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
